@@ -16,9 +16,9 @@ const { flowPrincipal } = require("./flows/flow-principal");
 /**
  * Declaramos las conexiones de MySQL
  */
-const MYSQL_DB_HOST = "localhost";
-const MYSQL_DB_USER = "root";
-const MYSQL_DB_PASSWORD = "";
+const MYSQL_DB_HOST = "192.168.0.17";
+const MYSQL_DB_USER = "crespif";
+const MYSQL_DB_PASSWORD = "C3lt4";
 const MYSQL_DB_NAME = "bot";
 const MYSQL_DB_PORT = "3306";
 
