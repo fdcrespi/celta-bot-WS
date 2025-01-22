@@ -1,0 +1,11 @@
+#dependencias
+/node_modules
+/bot_sessions
+
+#logs
+baileys.log
+core.class.log
+queue.class.log
+
+#qr autogenerate
+bot.qr.png
