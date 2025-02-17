@@ -9,3 +9,7 @@ queue.class.log
 
 #qr autogenerate
 bot.qr.png
+
+#variables de entorno
+.env.local
+.env
